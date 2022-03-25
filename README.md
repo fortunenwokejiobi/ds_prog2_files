@@ -1,15 +1,19 @@
 Program #2
 
-Name:
+Name: Fortune Nwokejiobi
 
 COSC 2030
 
-Section #
+Section 01
 
-Competing: YES or NO
+Competing: YES or NO: NO
 
-Best run time:
+Best run time: 1.54 secs in Linux systems
 
-compile line: 
+compile line: g++ program2.cpp 
 
-Anything that doesn't work:
+Anything that doesn't work: No
+
+Help Given/Recived: None
+
+Date: 25 March 2022
